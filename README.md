@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is the standard that was created to make HTML more universal and easier for pc and humans to read. Its naming your elements in a way that flows and makes sense to everyone else.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+inline-block does not add a line-break after the element, so the element can sit next to other elements. Black will force each element to the next line.
 
 3. What are the 4 areas of the box model?
 
+padding. margin. border. content.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+cross-axis (they really should name it x and y..)
+
 5. Explain why git is valuable to a team of developers.
+
+it allows for version control. Which allows different users to work on the same document without having two sepereate files. All the different branched can be merged together as the main developer sees fit. It allows the engineer to work on  aproject without affecting the original line of code and to go back to previous states of the code.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
